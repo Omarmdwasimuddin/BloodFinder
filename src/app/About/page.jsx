@@ -12,13 +12,8 @@ const teamMembers = [
   },
   {
     name: 'Sebgatur Rahman Pranto',
-    role: 'Idea Maker',
+    role: 'Network Engineer',
     image: '/Img/prantoimg.jpg',
-  },
-  {
-    name: 'Ismail Hossain',
-    role: 'DevOps Engineer',
-    image: '/Img/ismalimg.jpg',
   },
 ];
 
